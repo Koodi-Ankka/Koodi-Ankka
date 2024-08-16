@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Fisupala
-- 👀 I’m interested in making minecraft plugins and making games with processing
-- 🌱 I’m currently learning java coding
 
 <!---
 Koodi-Ankka/Koodi-Ankka is a very ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
